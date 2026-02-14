@@ -34,9 +34,6 @@ Disha Mhatre<br>
 Prajakta Mandhre<br>
 Aishwari Tokalwar<br>
 
-College: Terna Engineering College (Affiliated with University of Mumbai)
----
-
 ## Project Structure
 ```text
 ├── backend/            # FastAPI server & ML models
