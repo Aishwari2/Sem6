@@ -29,10 +29,10 @@ Install requirements: pip install -r requirements.txt
 Run the API: uvicorn main:app --reload
 
 Contributors
-Anjaleena Mahadik 
-Disha Mhatre 
-Prajakta Mandhre 
-Aishwari Tokalwar 
+Anjaleena Mahadik<br>
+Disha Mhatre<br>
+Prajakta Mandhre<br>
+Aishwari Tokalwar<br>
 
 College: Terna Engineering College (Affiliated with University of Mumbai)
 ---
