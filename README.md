@@ -28,7 +28,7 @@ Navigate to the backend directory: cd backend
 Install requirements: pip install -r requirements.txt
 Run the API: uvicorn main:app --reload
 
-Contributors
+Contributors<br>
 Anjaleena Mahadik<br>
 Disha Mhatre<br>
 Prajakta Mandhre<br>
