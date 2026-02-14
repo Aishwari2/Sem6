@@ -18,15 +18,15 @@ By shifting from reactive management to data-driven prediction, the system aims 
 
 Installation and Setup:
 
-Frontend Setup
-Navigate to the frontend directory: cd frontend
-Install dependencies: npm install
-Start the development server: npm run dev
+#Frontend Setup<br>
+Navigate to the frontend directory: cd frontend<br>
+Install dependencies: npm install<br>
+Start the development server: npm run dev<br>
 
-Backend Setup
-Navigate to the backend directory: cd backend
-Install requirements: pip install -r requirements.txt
-Run the API: uvicorn main:app --reload
+#Backend Setup<br>
+Navigate to the backend directory: cd backend<br>
+Install requirements: pip install -r requirements.txt<br>
+Run the API: uvicorn main:app --reload<br>
 
 Contributors<br>
 Anjaleena Mahadik<br>
