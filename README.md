@@ -17,7 +17,7 @@ Machine Learning: Scikit-learn, Pandas (XGBoost/Regression/Classification).
 Database: PostgreSQL / MySQL.
 
 📂 Project Structure
-Plaintext
+
 ├── backend/            # FastAPI server & ML models
 ├── frontend/           # React.js application
 │   ├── src/
@@ -39,10 +39,9 @@ Install requirements: pip install -r requirements.txt
 Run the API: uvicorn main:app --reload
 
 👥 Contributors
-
 Anjaleena Mahadik 
 Disha Mhatre 
 Prajakta Mandhre 
-Aishwari Tokalwar 
+Aishwari Tokalwar
 
 College: Terna Engineering College (Affiliated with University of Mumbai)
